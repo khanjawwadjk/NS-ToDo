@@ -1,0 +1,46 @@
+
+h2{
+    background-color: #FAD961;
+    /* background: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 110%); */
+    background: linear-gradient(90deg, #fcff9e 0%, #c67700 80%);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    height: 3rem;
+    padding: 8px;
+    color: black;
+
+}
+
+.div1{
+    background: linear-gradient(360deg, #3d599c 0%, #182848 50%);
+    border: 2px solid black;
+    border-radius: 4px 4px 92px 4px;
+    box-shadow: 10px 10px 10px 5px rgba(0,0,0,0.75);
+    height: 40rem;
+    width: 60rem;
+    margin: auto;
+    margin-top: 40px;
+    padding: 20px;
+    overflow-y: scroll;
+}
+/*Hide scrollbar but keep functionality..*/
+.div1::-webkit-scrollbar{
+    display: none;
+}
+
+#myInp{
+    width: 25rem;
+    height: 2.4rem;
+    border-radius: 10px;
+    margin-top: 10px;
+    outline: none;
+}
+
+#myBtn:hover{
+    color: green;
+}
+
+#sect2{
+    margin:20px
+}
+

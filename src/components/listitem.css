@@ -1,0 +1,40 @@
+#listDiv{
+    color: black;
+    width: 300px;
+    height: 50px;
+    background-color: rgb(245, 194, 99);
+    margin: 20px auto;
+    border-radius: 5px;
+}
+#mySpan{
+    color: white;
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+#listDiv p{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+}
+#listDiv p input{
+    background-color: transparent;
+    border: 0;
+    font-size: 19px;
+    color: black;
+    text-indent: 10px;
+    
+}
+#listDiv p input:focus{
+    outline: none;
+}
+
+#listDiv span{
+    float: right;
+    cursor: pointer;
+}
+
+#deletBtn:hover{
+    color: red;
+}

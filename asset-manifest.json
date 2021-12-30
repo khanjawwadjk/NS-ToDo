@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NS-ToDo/static/css/main.073c9b0a.css",
-    "main.js": "/NS-ToDo/static/js/main.d7526453.js",
+    "main.css": "/NS-ToDo/static/css/main.5ea0795d.css",
+    "main.js": "/NS-ToDo/static/js/main.2c24995f.js",
     "static/js/787.679024cd.chunk.js": "/NS-ToDo/static/js/787.679024cd.chunk.js",
     "static/media/logo.svg": "/NS-ToDo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/NS-ToDo/index.html",
-    "main.073c9b0a.css.map": "/NS-ToDo/static/css/main.073c9b0a.css.map",
-    "main.d7526453.js.map": "/NS-ToDo/static/js/main.d7526453.js.map",
+    "main.5ea0795d.css.map": "/NS-ToDo/static/css/main.5ea0795d.css.map",
+    "main.2c24995f.js.map": "/NS-ToDo/static/js/main.2c24995f.js.map",
     "787.679024cd.chunk.js.map": "/NS-ToDo/static/js/787.679024cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d7526453.js"
+    "static/css/main.5ea0795d.css",
+    "static/js/main.2c24995f.js"
   ]
 }
